@@ -1,0 +1,15 @@
+unstructured[pdf,ocr]
+pandas
+
+langchain
+langchain-core
+langchain-openai
+
+chromadb
+rank_bm25
+
+openai
+
+pdf2image
+pdfminer.six
+langchain-community>=0.0.0  # assuming latest from -U
